@@ -1,0 +1,17 @@
+DebugMain = 44, 44, 426, 491, C
+frmListProcesses = 88, 88, 547, 535, C, 66, 66, 525, 513, C
+PE_Utilities = 88, 88, 474, 535, C
+cProcess = 110, 110, 588, 557, C
+cModule = 132, 132, 610, 579, C
+cPortableExecutableImage = 66, 66, 452, 513, C
+ICollectionItem = 220, 220, 606, 667, C
+cSymbol = 88, 88, 594, 535, C
+cSection = 110, 110, 616, 557, C
+cDebugAppSettings = 0, 0, 322, 625, C
+FileApiUtils = 66, 66, 602, 513, C
+cImportDependency = 154, 154, 625, 601, C
+cFunction = 220, 220, 691, 667, C
+mdifrmDebuggermain = 154, 154, 539, 601, C, 132, 132, 517, 579, C
+frmAbout = 0, 0, 0, 0, C, 44, 44, 429, 491, C
+frmPEImage = 176, 176, 561, 623, C, 0, 0, 385, 447, C
+frmSettings = 45, 186, 536, 608, C, 81, 0, 644, 625, C
